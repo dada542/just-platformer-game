@@ -32,35 +32,23 @@
                  "id":1,
                  "name":"bat",
                  "point":true,
-                 "properties":[
-                        {
-                         "name":"orientation",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
                  "x":104,
-                 "y":104.666666666667
+                 "y":104.667
                 }, 
                 {
                  "height":0,
                  "id":2,
                  "name":"dragon",
                  "point":true,
-                 "properties":[
-                        {
-                         "name":"orientation",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":1,
+                 "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1009.33333333333,
+                 "x":1009.33,
                  "y":218
                 }, 
                 {
@@ -68,17 +56,11 @@
                  "id":3,
                  "name":"bat",
                  "point":true,
-                 "properties":[
-                        {
-                         "name":"orientation",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1005.33333333333,
+                 "x":1005.33,
                  "y":74
                 }, 
                 {
@@ -86,54 +68,60 @@
                  "id":5,
                  "name":"slime",
                  "point":true,
-                 "properties":[
-                        {
-                         "name":"orientation",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
                  "x":162,
-                 "y":246.666666666667
+                 "y":246.667
                 }, 
                 {
                  "height":0,
                  "id":6,
                  "name":"slime",
                  "point":true,
-                 "properties":[
-                        {
-                         "name":"orientation",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":896.666666666667,
-                 "y":245.333333333333
+                 "x":663.333666666667,
+                 "y":39.9996666666667
                 }, 
                 {
                  "height":0,
                  "id":7,
                  "name":"dragon",
                  "point":true,
-                 "properties":[
-                        {
-                         "name":"orientation",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":401.333333333333,
-                 "y":57.3333333333333
+                 "x":401.333,
+                 "y":57.3333
+                }, 
+                {
+                 "height":0,
+                 "id":8,
+                 "name":"bat",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":758,
+                 "y":74
+                }, 
+                {
+                 "height":0,
+                 "id":9,
+                 "name":"slime",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":472.666666666667,
+                 "y":200
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -142,7 +130,7 @@
          "y":0
         }],
  "nextlayerid":3,
- "nextobjectid":8,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.2",
