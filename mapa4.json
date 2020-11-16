@@ -44,7 +44,7 @@
                  "id":2,
                  "name":"dragon",
                  "point":true,
-                 "rotation":0,
+                 "rotation":1,
                  "type":"",
                  "visible":true,
                  "width":0,
