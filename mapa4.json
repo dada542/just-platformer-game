@@ -44,7 +44,7 @@
                  "id":2,
                  "name":"dragon",
                  "point":true,
-                 "rotation":1,
+                 "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
@@ -60,7 +60,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1005.33,
+                 "x":1111.99666666667,
                  "y":74
                 }, 
                 {
@@ -224,7 +224,7 @@
                         {
                          "name":"lava",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -247,7 +247,7 @@
                         {
                          "name":"lava",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
